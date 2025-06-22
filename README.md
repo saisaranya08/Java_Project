@@ -18,19 +18,19 @@ A Java Swing-based quiz game designed to test your knowledge of Java programming
 ## 🖼️ Screenshots
 
 ### ✅ Welcome Screen
-![Welcome Screen](screenshots/welcome.png)
+![Welcome Screen](Screenshots/welcome.png)
 
 ### 📝 Login Page
-![Login Page](screenshots/LoginPage.png)
+![Login Page](Screenshots/LoginPage.png)
 
 ### ❓ Question Page
-![Question Page](screenshots/Question.png)
+![Question Page](Screenshots/Question.png)
 
 ### 🆘 LifeLines
-![LifeLines](screenshots/LifeLines.png)
+![LifeLines](Screenshots/LifeLines.png)
 
 ### 🎉 Congratulations Message
-![Congratulations](screenshots/CongratulationsMessage.png)
+![Congratulations](Screenshots/CongratulationsMessage.png)
 
 ## 🛠️ Technologies Used
 
